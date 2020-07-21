@@ -35,7 +35,7 @@ python3 prediction.py
 ```
 
 ## Result
-![Result](result_3dbbox.png)
+![Result](3dbbox_1.png)
 
 ## Authors
 
